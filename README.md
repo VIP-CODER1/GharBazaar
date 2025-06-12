@@ -7,7 +7,7 @@
 ## 🔗 Live Demo
 
 👉 [Click here to view the live site](#)  
-_(Replace the link with your deployment URL)_
+https://gharbazaar-nfji.onrender.com
 
 ---
 
