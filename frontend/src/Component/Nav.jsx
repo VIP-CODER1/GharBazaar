@@ -24,7 +24,7 @@ function Nav() {
     let navigate = useNavigate()
     let {serverUrl} = useContext(authDataContext)
     let [cate,setCate]= useState()
-    let {listingData,setListingData,setNewListData,newListData,searchData,handleSearch,handleViewCard}=useContext(listingDataContext)
+    let {listingData,setListingData,setNewListData,newListData,searchData,setSearchData,handleSearch,handleViewCard}=useContext(listingDataContext)
     let [input,setInput]=useState("")
 
     const popupRef = useRef(null);
@@ -35,6 +35,8 @@ function Nav() {
                 withCredentials: true
             });
             setUserData(null);
+            setInput("");
+            setSearchData([]);
             navigate("/");
             window.location.reload();
         } catch (error) {
