@@ -17,8 +17,12 @@ https://gharbazaar-nfji.onrender.com
 
   ✅✅[**Home Page**]![image](![Uploading Screenshot 2025-06-12 121007.png…]()
 )
-  ✅✅[**Login Page**]![image](https://github.com/user-attachments/assets/f6428040-45db-421e-a28c-66bb7fab87fa)
-  ✅✅[**Listed Homes**]![image](https://github.com/user-attachments/assets/c71ec45c-4188-4903-87c3-93819c94fade)
+  ✅✅[**Login &SignUp Page**]![image](![imgonline-com-ua-twotoone-NMr9d1yWaVhU](https://github.com/user-attachments/assets/0bf05988-893f-4f8b-815d-5b78e6d0cc9f)
+)
+)
+  ✅✅[**Listed Homes**]![image](![Screenshot 2025-06-11 190437](https://github.com/user-attachments/assets/3ff39d70-6d30-490a-a0dd-d9e4e4dd7087)
+)
+)
   ✅✅[**Booking successfully**]![image]  ![image](https://github.com/user-attachments/assets/3f67e1db-e7bf-4336-b0be-c9d7995fff38)
 
 
